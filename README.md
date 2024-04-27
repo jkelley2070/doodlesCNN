@@ -32,5 +32,5 @@
   - Can be viewed at the following colab [Link](https://colab.research.google.com/drive/1zkpwkQtjcSRcWSczfdfOQRqlynhShQ8-?usp=sharing)
 ## Train_Models.ipynb
   - Jupytner notebook for training the models
-## final_testing.csv
+## Final_testing.csv
   - Statistical result the final testing evaluations on the best CNN
