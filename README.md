@@ -13,6 +13,13 @@
   - Used in Train_Models and Test_Models
 ## Labels.py
  - Labels for each class
+## MLP_models.py
+- **MLP1**: Base model, simple multilayer perceptron.
+- **MLP2**: Increases the number of neurons per layer.
+- **MLP3**: Adds an additional layer with more neurons.
+- **MLP4**: Extends MLP3 by adding even more neurons and a layer.
+- **MLP5**: Introduces dropout and batch normalization.
+- **bestMLP**: Optimized using Ray Tune for best performance.
 ## TensorboardLogs1.csv
   - Contains all the tracked progression of the models throughout all epochs!
 ## Testing_Models.ipynb
