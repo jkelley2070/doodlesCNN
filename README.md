@@ -1,4 +1,8 @@
 # Repository Overview
+## tensorboard_logs
+  - Folder containg all original logs for many training runs
+## weights
+  - Folder containg all pretrained weights for best cnn model
 ## CNN_models.py  
   - Contains the classes containing all 9 cnn models
     - CNN1 - A simple convolutional neural network model.(LENET)
