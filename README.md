@@ -1,7 +1,7 @@
 # Repository Overview
 ## CNN_models.py  
   - Contains the classes containing all 9 cnn models
-    - CNN1 - A simple convolutional neural network model.
+    - CNN1 - A simple convolutional neural network model.(LENET)
     - CNN2 - An improved convolutional neural network model with additional layers and modifications.
     - CNN3 - A version with more filters than the base model.
     - CNN4 - A version with additional dense layers.
@@ -17,7 +17,7 @@
   - Contains all the tracked progression of the models throughout all epochs!
 ## Testing_Models.ipynb
   - Jupytner notebook for running the pretrained models
-  - Can be viewed at the following colab
+  - Can be viewed at the following colab [Link](https://colab.research.google.com/drive/1zkpwkQtjcSRcWSczfdfOQRqlynhShQ8-?usp=sharing)
 ## Train_Models.ipynb
   - Jupytner notebook for training the models
 ## final_testing.csv
